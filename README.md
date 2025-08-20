@@ -1,7 +1,4 @@
-# EVENT_PAGE
-A simple HTML-based Events Website that showcases upcoming events, photo galleries, and contact details. Features include event highlights, a fashion store link, and a dark-themed elegant design. Beginner-friendly, customizable, and perfect for learning or showcasing basic web development skills.
-
-# 🎉 Events Website
+ # 🎉 Events Website
 
 This project is a simple **Events Webpage** built using **HTML**. It showcases upcoming events, event details, and contact information for an event management service.  
 
