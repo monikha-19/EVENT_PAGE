@@ -27,7 +27,7 @@ img/
 ## 🚀 How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/monikha-19/events-website.git
+   git clone https://github.com/monikha-19/EVENT_PAGE.git
    ```
 2. Navigate to the project folder:  
    ```bash
