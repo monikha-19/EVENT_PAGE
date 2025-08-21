@@ -31,7 +31,7 @@ img/
    ```
 2. Navigate to the project folder:  
    ```bash
-   cd events-website
+   cd EVENT_PAGE-main
    ```
 3. Open `event.html` in your browser.
 
