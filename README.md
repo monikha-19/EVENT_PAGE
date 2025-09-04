@@ -65,7 +65,7 @@ img/
 
 This is my project dashboard:
 
-![page_1](Screenshot_1(1).png)
+![page_1](Screenshot_1.png)
 
 Here is another view:
 
