@@ -59,6 +59,19 @@ img/
 
 ---
 
+
+
+# My Project
+
+This is my project dashboard:
+
+![Dashboard Screenshot](Screenshot_1(1).png)
+
+Here is another view:
+
+![page_2](Screenshot_2.png)
+
+
 ## 📧 Contact
 📍 Chennai, India  
 📞 +91 1234567789  
